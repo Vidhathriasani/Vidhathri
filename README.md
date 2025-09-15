@@ -32,9 +32,9 @@ Most of my time goes into **automation, containerization, and CI/CD pipelines** 
 
 ## 🌐 Find Me Here
 - [LinkedIn](https://www.linkedin.com/in/vidhathri-a-reddy)  
-- [GitHub](https://github.com/vidhathrisani)  
+- [GitHub](https://github.com/vidhathriasani)  
 
 ---
 
-💡 *Most of my client work is private, but I’ve summarized my approach and experience in the [Wiki section](https://github.com/vidhathrisani/vidhathriasani/wiki). That’s where I break down the pipelines, infrastructure, and monitoring setups I’ve worked on.*
+💡 *Most of my client work is private, but I’ve summarized my approach and experience in the [Wiki section](https://github.com/vidhathriasani/vidhathriasani/wiki). That’s where I break down the pipelines, infrastructure, and monitoring setups I’ve worked on.*
 
