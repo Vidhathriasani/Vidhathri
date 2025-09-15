@@ -61,11 +61,6 @@ Most of my work revolves around **automation, containerization, and CI/CD pipeli
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidhathri-a-reddy)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vidhathriasani)  
 
----
-
-## 📊 Top Languages  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vidhathriasani&layout=compact&theme=tokyonight&hide=css,html)  
 
 ---
 
