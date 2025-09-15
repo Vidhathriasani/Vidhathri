@@ -36,5 +36,5 @@ Most of my time goes into **automation, containerization, and CI/CD pipelines** 
 
 ---
 
-💡 *Most of my client work is private, but I’ve summarized my approach and experience in the [Wiki section](https://github.com/vidhathrisani/vidhathrisani/wiki). That’s where I break down the pipelines, infrastructure, and monitoring setups I’ve worked on.*
+💡 *Most of my client work is private, but I’ve summarized my approach and experience in the [Wiki section](https://github.com/vidhathrisani/vidhathriasani/wiki). That’s where I break down the pipelines, infrastructure, and monitoring setups I’ve worked on.*
 
